@@ -3,9 +3,9 @@
 
 
 
-- Actualmente Aprendiendo **Google Advanced Data Analysis**- 👨 Todos mis proyectos se encuentran en : [https://www.datascienceportfol.io/HoracioLaphitz](https://www.datascienceportfol.io/HoracioLaphitz)
+- 👨 Actualmente Aprendiendo **Google Advanced Data Analysis**-  
 
-- Pregúntame sobre **Python , R , SQL , PowerBi , Access , Tableau , BackEnd**- 💬 📫 🌱 Correo **horaciolaphitz99@gmail.com**
+- 👉 Pregúntame sobre **Python , R , SQL , PowerBi , Access , Tableau , BackEnd**- 💬 📫 🌱 Correo **horaciolaphitz99@gmail.com**
 
 
 
