@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 , Soy Horacio Laphitz</h1><h3 align="center">Analista de Datos Apasionado por las soluciones basadas en Datos.</h3><p align="left"> <a href="https://twitter.com/horaciiolaphitz" target="blank"><img src="https://img.shields.io/twitter/follow/horaciiolaphitz?logo=twitter&style=for-the-badge" alt="horaciiolaphitz" /></a> </p>
 - 👨 Actualmente Aprendiendo: **Google Advanced Data Analysis** - **IBM Data Science**  
 - 👉 Pregúntame sobre **Python , R , SQL , PowerBi , Access , Tableau , **- 💬 📫 🌱
-- Correo [link](mailto:horaciolaphitz99@gmail.com)
+- Correo mailto:[horaciolaphitz99@gmail.com]?subject=[Describa su Asunto]
 
 💻- 📄 Conocer mis experiencias [https://drive.google.com/file/d/1MwkW_WAezYucVBtLk83bhzvccSc6fuAF/view?usp=drive_link](https://drive.google.com/file/d/1MwkW_WAezYucVBtLk83bhzvccSc6fuAF/view?usp=drive_link)
 
