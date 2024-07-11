@@ -7,7 +7,7 @@
 
 
 
-- 📄 Conoce mis experiencias [https://drive.google.com/file/d/1MwkW_WAezYucVBtLk83bhzvccSc6fuAF/view?usp=drive_link](https://drive.google.com/file/d/1MwkW_WAezYucVBtLk83bhzvccSc6fuAF/view?usp=drive_link)
+- 📄 Conoce mis experiencias [https://shy-tarp-185.notion.site/Horacio-Laphitz-Analista-de-Datos-Python-Developer-478ebe3bbcae4bf2b0de078377aa8dbc]
 
 <h3 align="left">Conéctate conmigo:</h3><p align="left">
 
