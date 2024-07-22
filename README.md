@@ -1,13 +1,9 @@
 <h1 align="center">Hola 👋 , Soy Horacio Laphitz</h1><h3 align="center">Analista de Datos - Python Developer</h3>
 
 
-- Actualmente Aprendiendo **Google Advanced Data Analysis - IBM Data Science**- 🌱 💬 Pregúntame sobre **Estadistica , Python , R , SQL , PowerBi , Access , Tableau , Aprendizaje Automatico , Aprendizaje Profundo**- 📫 Correo **horaciolaphitz99@gmail.com**
+- **Advanced Data Analysis - Machine Learning Junior - Python Developer Expert**- 🌱 💬 Conocimientos: **Estadistica , Python , R , SQL , PowerBi , Access , Tableau , Aprendizaje Automatico , Aprendizaje Profundo**- 📫 Correo **horaciolaphitz99@gmail.com**
 
-
-
-
-
-- 📄 Conoce mis experiencias [https://shy-tarp-185.notion.site/Horacio-Laphitz-Analista-de-Datos-Python-Developer-478ebe3bbcae4bf2b0de078377aa8dbc]
+- 📄 Conoce mis experiencias https://shy-tarp-185.notion.site/Horacio-Laphitz-Analista-de-Datos-Python-Developer-478ebe3bbcae4bf2b0de078377aa8dbc
 
 <h3 align="left">Conéctate conmigo:</h3><p align="left">
 
