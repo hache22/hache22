@@ -2,9 +2,6 @@
 
 
 - **Advanced Data Analysis - Machine Learning Developer Junior - Python Developer Expert**- 🌱 💬 Conocimientos: **Estadistica , Python , R , SQL , PowerBi , Access , Tableau , Aprendizaje Automatico , Aprendizaje Profundo**- 📫 Correo **horaciolaphitz99@gmail.com**
-
-- 📄 Conoce mis experiencias https://shy-tarp-185.notion.site/Horacio-Laphitz-Analista-de-Datos-Python-Developer-478ebe3bbcae4bf2b0de078377aa8dbc
-
 <h3 align="left">Conéctate conmigo:</h3><p align="left">
 
 <a href="https://twitter.com/horaciiolaphitz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="horaciiolaphitz" height="30" width="40" /></a>
