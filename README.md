@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">¡Hola! 👋 Soy Horacio Laphitz</h1>
-<h3 align="center">Data Analyst Ssr & Python Developer | Transformando Datos en Decisiones Estratégicas</h3>
+<h3 align="center">Data Analyst & Python Developer</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/horacio-laphitz/" target="_blank">
@@ -17,7 +17,7 @@
 
 ### <p align="left">👩‍💻 Sobre Mí</p>
 
-Soy un Analista de Datos Semi Senior y Desarrollador Python con una pasión por descifrar las historias que los datos pueden contar. Mi experiencia se centra en el ciclo de vida completo del dato: desde la **extracción y limpieza (ETL)**, pasando por el **análisis exploratorio (EDA)**, hasta la creación de **modelos de aprendizaje automático** y el desarrollo de **dashboards interactivos** para la visualización de resultados.
+Soy un Analista de Datos  y Desarrollador Python con una pasión por descifrar las historias que los datos pueden contar. Mi experiencia se centra en el ciclo de vida completo del dato: desde la **extracción y limpieza (ETL)**, pasando por el **análisis exploratorio (EDA)**, hasta la creación de **modelos de aprendizaje automático** y el desarrollo de **dashboards interactivos** para la visualización de resultados.
 
 Busco constantemente optimizar procesos, garantizar la **integridad y calidad de la información**, y comunicar hallazgos de manera clara y accionable para impulsar decisiones basadas en evidencia. Disfruto enfrentando desafíos complejos y estoy comprometido con el aprendizaje continuo en el vasto campo de la ciencia de datos y la inteligencia artificial.
 
