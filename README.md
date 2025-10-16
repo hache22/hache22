@@ -94,9 +94,9 @@ Busco constantemente optimizar procesos, garantizar la **integridad y calidad de
 
 ### <p align="left">🌱 Actualmente Aprendiendo / Enfocado en</p>
 
-* Profundizando en técnicas avanzadas de **Deep Learning** (ej. con PyTorch/TensorFlow).
+* Profundizando en técnicas avanzadas de **Deep Learning** (PyTorch/TensorFlow).
 * Explorando soluciones de **MLOps** para la puesta en producción y monitoreo de modelos.
-* Mejorando mis habilidades en **Big Data Technologies** (ej. Spark, Hadoop).
+* Mejorando mis habilidades en **Big Data Technologies** (Spark, Hadoop).
 ---
 
 ### <p align="left">🤝 Busco Colaborar / Abierto a Oportunidades</p>
